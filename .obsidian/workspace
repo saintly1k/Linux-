@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "857745d8b1e1348c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7ae91b2069f4ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux筆記.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "318eb44aadb9479c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4367851f8dea91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1528467b2308ec00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd87fd434c549e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84e73b8a273e7d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc30f32bacf0f412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1173e4ba12592a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux筆記.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c7ae91b2069f4ae",
+  "lastOpenFiles": [
+    "linux筆記.md",
+    "README.md"
+  ]
+}
